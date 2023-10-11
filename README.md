@@ -12,6 +12,6 @@ Gameplay Phase: Following the KB building phase, the Pro-Wordle game transitions
 Prolog: The project is implemented using the Prolog programming language, showcasing the use of logic programming for creating word games and knowledge-based systems.
 The choice of Prolog as the primary technology highlights the effectiveness of logical reasoning in game development and knowledge representation, particularly in the context of word games like Pro-Wordle.
 
-<h2>Contact Us</h2>
-    <p>If you have any questions or suggestions, feel free to reach out:</p>
-    <p><strong>Email</strong>: <a href="mailto:contact@touristguide.com">contact@touristguide.com</a></p>
+ <h2>Feedback</h2>
+    <p>If you have any feedback or suggestions, we'd love to hear from you. Please contact us at:</p>
+    <p><strong>Email</strong>: <a href="mailto:mohannadnasar99@gmail.com">mohannadnasar99@gmail.com</a></p>
