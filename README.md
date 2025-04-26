@@ -2,7 +2,7 @@
 
 <h3>Project Description</h3>
 
-<h5>In this project, we were tasked with implementing a modified version of the game Wordle, referred to as Pro-Wordle, using Prolog. Pro-Wordle consists of two main phases: </h5>
+<h5>In this project, i was tasked with implementing a modified version of the game Wordle, referred to as Pro-Wordle, using Prolog. Pro-Wordle consists of two main phases: </h5>
 
 Knowledge Base Building Phase: During this phase, players are prompted to input words along with their respective categories. Facts are added to the knowledge base using the predicate word/2, where word(W, C) is true if word W is associated with the category C. This phase continues until the player enters "done."
 
