@@ -2,7 +2,7 @@
 
 <h3>Project Description</h3>
 
-<h5>In this project, you are tasked with implementing a modified version of the game Wordle, referred to as Pro-Wordle, using Prolog. Pro-Wordle consists of two main phases: </h5>
+<h5>In this project, we were tasked with implementing a modified version of the game Wordle, referred to as Pro-Wordle, using Prolog. Pro-Wordle consists of two main phases: </h5>
 
 Knowledge Base Building Phase: During this phase, players are prompted to input words along with their respective categories. Facts are added to the knowledge base using the predicate word/2, where word(W, C) is true if word W is associated with the category C. This phase continues until the player enters "done."
 
@@ -13,5 +13,5 @@ Prolog: The project is implemented using the Prolog programming language, showca
 The choice of Prolog as the primary technology highlights the effectiveness of logical reasoning in game development and knowledge representation, particularly in the context of word games like Pro-Wordle.
 
  <h2>Feedback</h2>
-    <p>If you have any feedback or suggestions, we'd love to hear from you. Please contact us at:</p>
+    <p>If you have any feedback or suggestions, I'd love to hear from you. Please contact me at:</p>
     <p><strong>Email</strong>: <a href="mailto:mohannadnasar99@gmail.com">mohannadnasar99@gmail.com</a></p>
